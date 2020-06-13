@@ -13,6 +13,12 @@
 3. 行业协会可以第三方的方式独立进行人员的能力评定；
 4. 从业人员也可以进行自我评估，不断提升能力
 
+起草单位：
+
+* 中国技术传播联盟成员单位
+* 中国技术传播教育联盟单位
+* 受邀单位与个人
+
 .. note::
     能力模型正在开发中，请持续关注。
 
@@ -21,10 +27,12 @@
    :caption: 能力模型介绍:
 
    1-Introduction/introduction.rst
+   1-Introduction/output.rst
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: 项目分析:
+   :caption: 项目分析能力:
 
    2-Project_Planning/project_planning_overview.rst
 
@@ -34,7 +42,7 @@
    :maxdepth: 2
    :caption: 项目分析:   
 
-Indices and tables
+索引与表格
 ==================
 
 * :ref:`genindex`
