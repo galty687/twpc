@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '技术写作从业能力要求'
+project = u"技术写作从业能力要求"
 copyright = '2020, CTCA'
 author = 'CTCA'
 
