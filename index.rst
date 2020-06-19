@@ -23,6 +23,7 @@
    1-Introduction/introduction.rst
    1-Introduction/output.rst
    1-Introduction/team.md
+   1-Introduction/style.rst
 
 .. toctree::
    :maxdepth: 2
