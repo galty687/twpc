@@ -21,6 +21,8 @@
    :caption: 能力模型介绍:
 
    1-Introduction/introduction.rst
+   1-Introduction/output.rst
+   1-Introduction/team.md
 
 .. toctree::
    :maxdepth: 2
