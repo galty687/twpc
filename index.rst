@@ -24,6 +24,7 @@
    1-Introduction/output.rst
    1-Introduction/team.md
    1-Introduction/style.rst
+   1-Introduction/minutes.md
 
 .. toctree::
    :maxdepth: 2
