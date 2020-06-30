@@ -21,6 +21,7 @@
    :caption: 能力模型介绍:
 
    1-Introduction/introduction.rst
+   1-Introduction/model-domain_knowledge_content_management.md
    1-Introduction/output.rst
    1-Introduction/team.md
    1-Introduction/style.rst
